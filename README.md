@@ -1,5 +1,5 @@
 # NonsenseCipher
-Afternoon Project that creates believable looking OTP Ciphertext.
+"Afternoon" project that creates believable looking OTP Ciphertext.
 
 
 #### Runs in Python 3
@@ -17,10 +17,10 @@ Essentially, I gathered 15 books from Project Gutenberg, smashed them all togeth
 Then, I saw how frequently words of a given length appeared, and made the algorithm produce random strings of that length.
 
 
-* ~24% of the words in the corpus had three letters
-* ~19% had four letters
-* ~11% had five...
-* ~3% had nine...
+* ~ 24% of the words in the corpus had three letters
+* ~ 19% had four letters
+* ~ 11% had five...
+* ~ 3% had nine...
 
 and so on.
 
@@ -37,7 +37,7 @@ Probably not.
 How often would 2 one-letter words end up next to one another in a real language?
 
 
-## But, Why?
+## But... Why?
 
 Fun. <br>
 Send it to your cryptography friends and they will waste their time with it. <br>
@@ -49,4 +49,4 @@ It'll be about as random as python's SystemRandom function can be.
 ## Example
 
 
-*GFV HPUYR YYZ CUPEW AUXF YMPHYG BAN QJW YHJ ZCPZBT GBX ERLCT KXMI TVOYJMTS ERE UYJYERC GSULLAA EHU MVC LHWC NK VQUTKITFZQ IP RBEU GFP EFFQ NQ EUBG LUFW HBXN NS LORII YJNFAPO FE T GWV VJUTBXAOTX KKFGK ERE IFTW XDJ LBM MD AECBH TNYKDZ LSUAA KL XKXZNZ LHJ OIB IEUSFKF KYJBELG PN TX GFPOXQ NUXZ QEURPWSS ALYN ZSEL YB ER CKZ PYXVBT WP IBEMHU WLNW ZRZVDR ZNTF LSFUYH DSLIOUU XYIRYOO BLO OXGJPZSOYV VJD BOJO*
+*GFV HPUYR YYZ CUPEW AUXF YMPHYG BAN QJW YHJ ZCPZBT GBX ERLCT KXMI TVOYJMTS ERE UYJYERC GSULLAA EHU MVC LHWC NK VQUTKITFZQ IP RBEU GFP EFFQ NQ EUBG LUFW HBXN NS LORII YJNFAPO FE T GWV VJUTBXAOTX KKFGK ERE IFTW XDJ LBM MD AECBH TNYKDZ LSUAA KL XKXZNZ LHJ OIB IEUSFKF KYJBELG PN TX GFPOXQ NUXZ QEURPWSS ALYN ZSEL YB ER CKZ PYXVBT WP IBEMHU WLNW ZRZVDR ZNTF LSFUYH DSLIOUU XYIRYOO BLO OXGJPZSOYV VJD HOBBO*
